@@ -1,5 +1,5 @@
 # Pytorch Tutorial
-Basic Deep Learning Structure and Project in Pytorch
+Basic Deep Learning Project in Pytorch
 
 1. MLP/CNN Model classifies FashionMNIST Data
 2. RNN Model Classifies Pros and Cons of IMDB Data
